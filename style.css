@@ -3,7 +3,8 @@
   background-color: #e2edff;
 }
 
-#projects {
+#projects,
+#contact {
   background-color: #e2edff;
 }
 
@@ -13,4 +14,5 @@ section {
 
 .card-body {
   text-align: center;
+  min-height: 208px;
 }
